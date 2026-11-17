@@ -1,3 +1,8 @@
+# makepkg / paru
 src/
 pkg/
 *.pkg.tar.*
+.SRCINFO
+
+# Iosevka clone and its build output (see README.md)
+Iosevka/
